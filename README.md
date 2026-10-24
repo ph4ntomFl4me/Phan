@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="JPE File (.jpe)" alt="C:\Users\Asus\Downloads" width="400">
+  <img src="C:\Users\Asus\Downloads" alt="JPE File (.jpe)" width="400">
 </p>
